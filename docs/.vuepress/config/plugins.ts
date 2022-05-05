@@ -10,14 +10,14 @@ import type { SmPlayerPluginOption } from 'vuepress-plugin-smplayer/types'
 
 // 配置插件，推荐使用 Babel 式, 根据自己插件情况修改插件配置
 export default <UserPlugins>[
-    [
-        'sitemap',
-        {
-            hostname: `https://${fs.readFileSync(
-                resolve(__dirname, '../public', 'CNAME')
-            )}`
-        }
-    ],
+    // [
+    //     'sitemap',
+    //     {
+    //         hostname: `https://${fs.readFileSync(
+    //             resolve(__dirname, '../public', 'CNAME')
+    //         )}`
+    //     }
+    // ],
     ['pangu'],
     [
         'one-click-copy',

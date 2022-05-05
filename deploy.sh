@@ -8,7 +8,7 @@ currentDate=$(date +%Y-%m-%d-%H:%M)
 npm run build
 
 # 进入生成的文件夹
-cd docs/.vuepress/dist
+cd dist
 
 # deploy to github pages
 #echo 'simon1uo.github.io' >CNAME

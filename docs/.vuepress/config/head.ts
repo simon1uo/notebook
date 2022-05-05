@@ -17,7 +17,7 @@ export default <HeadTags>[
                 '个人学习笔记,前端学习笔记,前端学习,前端学习资源,前端学习路线,HTML,CSS,JavaScript,Vue,React'
         }
     ],
-    ['meta', { name: 'theme-color', content: '#11a8cd' }],
+    ['meta', { name: 'theme-color', content: '#204A7A' }],
     [
         'link',
         {

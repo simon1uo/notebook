@@ -29,10 +29,6 @@ export default <Array<NavItem>>[
     },
     {
         text: '🔖 关于',
-        link: '/about/',
-        items: [
-            { text: '🔭 关于本笔记', link: '/about/vutebook/' },
-            { text: '😇 关于我', link: '/about/me/' }
-        ]
+        link: '/about/'
     }
 ]
