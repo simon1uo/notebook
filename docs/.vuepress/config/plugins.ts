@@ -18,20 +18,6 @@ export default <UserPlugins>[
             )}`
         }
     ],
-    [
-        'smplayer',
-        {
-            artplayer: {
-                src: {
-                    playbackRate: true,
-                    whitelist: ['*'],
-                    moreVideoAttr: {
-                        preload: 'auto'
-                    }
-                }
-            }
-        } as SmPlayerPluginOption
-    ],
     ['pangu'],
     [
         'one-click-copy',
@@ -80,5 +66,6 @@ export default <UserPlugins>[
         // vue-tabs-component
         'tabs',
         {}
-    ]
+    ],
+    ['@vuepress/nprogress']
 ]
