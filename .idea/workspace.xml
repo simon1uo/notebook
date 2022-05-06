@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2cd058e-cf1f-48b5-934b-e71eff147289" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/prettier.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deploy.sh" beforeDir="false" afterPath="$PROJECT_DIR$/deploy.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/config/head.ts" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config/head.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/config/nav.ts" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config/nav.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/config/plugins.ts" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config/plugins.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/10.  关于/01.  关于本笔记.md" beforePathEscaped="$PROJECT_DIR$/docs/10. 🪧 关于/01. 📌 关于本笔记.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/10.  关于/02.  关于我.md" beforePathEscaped="$PROJECT_DIR$/docs/10. 🪧 关于/02. 🕶 关于我.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/10.  关于/index.md" beforePathEscaped="$PROJECT_DIR$/docs/10. 🪧 关于/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/10.  关于/index.md" afterPathEscaped="$PROJECT_DIR$/docs/10. 🪧 关于/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdoing/styles/palette.styl" beforeDir="false" afterPath="$PROJECT_DIR$/vdoing/styles/palette.styl" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,8 +18,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -64,11 +54,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651767517162</updated>
-      <workItem from="1651767518413" duration="366000" />
+      <workItem from="1651767518413" duration="1157000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
