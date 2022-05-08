@@ -1,6 +1,6 @@
 ---
 title: 🪧 关于
-date: 2022-05-05 21:37:42
+date: 1970-01-01 00:00:00
 permalink: /about/
 categories:
   -  🪧 关于
