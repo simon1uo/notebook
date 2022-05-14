@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2cd058e-cf1f-48b5-934b-e71eff147289" name="Changes" comment="update: content update">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/01.  前端笔记/10.  基础部分/32.  JavaScript 深入数据类型/26.  JavaScript 映射与集合（Map and Set）.md" beforePathEscaped="$PROJECT_DIR$/docs/01. 📚 前端笔记/10. 🚶 基础部分/32. 📕 JavaScript 深入数据类型/26. 🔂 JavaScript 映射与集合（Map and Set）.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/01.  前端笔记/10.  基础部分/32.  JavaScript 深入数据类型/26.  JavaScript 映射与集合.md" afterPathEscaped="$PROJECT_DIR$/docs/01. 📚 前端笔记/10. 🚶 基础部分/32. 📕 JavaScript 深入数据类型/26. 🔂 JavaScript 映射与集合.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/01.  前端笔记/10.  基础部分/33.  JavaScript 深入函数/01.   JavaScript 函数递归与堆栈.md" beforePathEscaped="$PROJECT_DIR$/docs/01. 📚 前端笔记/10. 🚶 基础部分/33. 📗 JavaScript 深入函数/01. 🚝  JavaScript 函数递归与堆栈.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/01.  前端笔记/10.  基础部分/33.  JavaScript 深入函数/01.   JavaScript 函数递归与堆栈.md" afterPathEscaped="$PROJECT_DIR$/docs/01. 📚 前端笔记/10. 🚶 基础部分/33. 📗 JavaScript 深入函数/01. 🚝  JavaScript 函数递归与堆栈.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/01.  前端笔记/10.  基础部分/33.  JavaScript 深入函数/02.  JavaScript Rest 参数与 Spread 语法.md" beforePathEscaped="$PROJECT_DIR$/docs/01. 📚 前端笔记/10. 🚶 基础部分/33. 📗 JavaScript 深入函数/02. 🚅 JavaScript Rest 参数与 Spread 语法.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/01.  前端笔记/10.  基础部分/33.  JavaScript 深入函数/02.  JavaScript Rest 参数与 Spread 语法.md" afterPathEscaped="$PROJECT_DIR$/docs/01. 📚 前端笔记/10. 🚶 基础部分/33. 📗 JavaScript 深入函数/02. 🚅 JavaScript Rest 参数与 Spread 语法.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/01.  前端笔记/10.  基础部分/33.  JavaScript 深入函数/03.  JavaScript 变量作用域与闭包.md" beforePathEscaped="$PROJECT_DIR$/docs/01. 📚 前端笔记/10. 🚶 基础部分/33. 📗 JavaScript 深入函数/03. 🚈 JavaScript 变量作用域与闭包.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/01.  前端笔记/10.  基础部分/33.  JavaScript 深入函数/03.  JavaScript 变量作用域与闭包.md" afterPathEscaped="$PROJECT_DIR$/docs/01. 📚 前端笔记/10. 🚶 基础部分/33. 📗 JavaScript 深入函数/03. 🚈 JavaScript 变量作用域与闭包.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/01.  前端笔记/10.  基础部分/33.  JavaScript 深入函数/04.  JavaScript 全局对象.md" beforePathEscaped="$PROJECT_DIR$/docs/01. 📚 前端笔记/10. 🚶 基础部分/33. 📗 JavaScript 深入函数/04. 🚂 JavaScript 全局对象.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/01.  前端笔记/10.  基础部分/33.  JavaScript 深入函数/04.  JavaScript 全局对象.md" afterPathEscaped="$PROJECT_DIR$/docs/01. 📚 前端笔记/10. 🚶 基础部分/33. 📗 JavaScript 深入函数/04. 🚂 JavaScript 全局对象.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.  前端笔记/10.  基础部分/33.  JavaScript 深入函数/05.  JavaScript 函数对象.md" beforePathEscaped="$PROJECT_DIR$/docs/01. 📚 前端笔记/10. 🚶 基础部分/33. 📗 JavaScript 深入函数/05. 🚆 JavaScript 函数对象.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/01.  前端笔记/10.  基础部分/33.  JavaScript 深入函数/05.  JavaScript 函数对象.md" afterPathEscaped="$PROJECT_DIR$/docs/01. 📚 前端笔记/10. 🚶 基础部分/33. 📗 JavaScript 深入函数/05. 🚆 JavaScript 函数对象.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.  前端笔记/10.  基础部分/33.  JavaScript 深入函数/06.  JavaScript 创建函数 new Function.md" beforePathEscaped="$PROJECT_DIR$/docs/01. 📚 前端笔记/10. 🚶 基础部分/33. 📗 JavaScript 深入函数/06. 🚞 JavaScript 创建函数 new Function.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/01.  前端笔记/10.  基础部分/33.  JavaScript 深入函数/06.  JavaScript 创建函数 new Function.md" afterPathEscaped="$PROJECT_DIR$/docs/01. 📚 前端笔记/10. 🚶 基础部分/33. 📗 JavaScript 深入函数/06. 🚞 JavaScript 创建函数 new Function.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.  前端笔记/10.  基础部分/33.  JavaScript 深入函数/07.  JavaScript 中的调度函数.md" beforePathEscaped="$PROJECT_DIR$/docs/01. 📚 前端笔记/10. 🚶 基础部分/33. 📗 JavaScript 深入函数/07. 🚠 JavaScript 中的调度函数.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/01.  前端笔记/10.  基础部分/33.  JavaScript 深入函数/07.  JavaScript 中的调度函数.md" afterPathEscaped="$PROJECT_DIR$/docs/01. 📚 前端笔记/10. 🚶 基础部分/33. 📗 JavaScript 深入函数/07. 🚠 JavaScript 中的调度函数.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.  前端笔记/10.  基础部分/33.  JavaScript 深入函数/08.  JavaScript 装饰器模式和转发.md" beforePathEscaped="$PROJECT_DIR$/docs/01. 📚 前端笔记/10. 🚶 基础部分/33. 📗 JavaScript 深入函数/08. 🚃 JavaScript 装饰器模式和转发.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/01.  前端笔记/10.  基础部分/33.  JavaScript 深入函数/08.  JavaScript 装饰器模式和转发.md" afterPathEscaped="$PROJECT_DIR$/docs/01. 📚 前端笔记/10. 🚶 基础部分/33. 📗 JavaScript 深入函数/08. 🚃 JavaScript 装饰器模式和转发.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.  前端笔记/300.  更多前端相关/02.  JavaScript 关于老旧的 var 声明.md" beforePathEscaped="$PROJECT_DIR$/docs/01. 📚 前端笔记/300. 🏕 更多前端相关/02. 🗑 JavaScript 关于老旧的 var 声明.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/01.  前端笔记/300.  更多前端相关/02.  JavaScript 关于老旧的 var 声明.md" afterPathEscaped="$PROJECT_DIR$/docs/01. 📚 前端笔记/300. 🏕 更多前端相关/02. 🗑 JavaScript 关于老旧的 var 声明.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +80,7 @@
       <workItem from="1651767518413" duration="1157000" />
       <workItem from="1651825761691" duration="3262000" />
       <workItem from="1651987430330" duration="729000" />
+      <workItem from="1652284701724" duration="193000" />
     </task>
     <task id="LOCAL-00001" summary="update: JavaScript related content">
       <created>1651825811053</created>
@@ -103,7 +103,21 @@
       <option name="project" value="LOCAL" />
       <updated>1651987446268</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update: content update">
+      <created>1652284755607</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1652284755607</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update: content update">
+      <created>1652284784303</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1652284784303</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
