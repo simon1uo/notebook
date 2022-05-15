@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2cd058e-cf1f-48b5-934b-e71eff147289" name="Changes" comment="update: content update">
-      <change beforePath="$PROJECT_DIR$/docs/01.  前端笔记/10.  基础部分/31.  JavaScript 对象/18.  JavaScript 对象属性标志和属性描述符.md" beforePathEscaped="$PROJECT_DIR$/docs/01. 📚 前端笔记/10. 🚶 基础部分/31. 📒 JavaScript 对象/18. 💡 JavaScript 对象属性标志和属性描述符.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/01.  前端笔记/10.  基础部分/31.  JavaScript 对象/18.  JavaScript 对象属性标志和属性描述符.md" afterPathEscaped="$PROJECT_DIR$/docs/01. 📚 前端笔记/10. 🚶 基础部分/31. 📒 JavaScript 对象/18. 💡 JavaScript 对象属性标志和属性描述符.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/01.  前端笔记/10.  基础部分/31.  JavaScript 对象/19.  JavaScript 对象的访问器属性和描述符.md" beforePathEscaped="$PROJECT_DIR$/docs/01. 📚 前端笔记/10. 🚶 基础部分/31. 📒 JavaScript 对象/19. 🔦 JavaScript 对象的访问器属性和描述符.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/01.  前端笔记/10.  基础部分/31.  JavaScript 对象/19.  JavaScript 对象的访问器属性和描述符.md" afterPathEscaped="$PROJECT_DIR$/docs/01. 📚 前端笔记/10. 🚶 基础部分/31. 📒 JavaScript 对象/19. 🔦 JavaScript 对象的访问器属性和描述符.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/01.  前端笔记/10.  基础部分/33.  JavaScript 深入函数/09.  JavaScript 函数绑定.md" beforePathEscaped="$PROJECT_DIR$/docs/01. 📚 前端笔记/10. 🚶 基础部分/33. 📗 JavaScript 深入函数/09. 🚡 JavaScript 函数绑定.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/01.  前端笔记/10.  基础部分/33.  JavaScript 深入函数/09.  JavaScript 函数绑定.md" afterPathEscaped="$PROJECT_DIR$/docs/01. 📚 前端笔记/10. 🚶 基础部分/33. 📗 JavaScript 深入函数/09. 🚡 JavaScript 函数绑定.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/01.  前端笔记/10.  基础部分/33.  JavaScript 深入函数/10.  JavaScript 深入箭头函数.md" beforePathEscaped="$PROJECT_DIR$/docs/01. 📚 前端笔记/10. 🚶 基础部分/33. 📗 JavaScript 深入函数/10. 🛺 JavaScript 深入箭头函数.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/01.  前端笔记/10.  基础部分/33.  JavaScript 深入函数/10.  JavaScript 深入箭头函数.md" afterPathEscaped="$PROJECT_DIR$/docs/01. 📚 前端笔记/10. 🚶 基础部分/33. 📗 JavaScript 深入函数/10. 🛺 JavaScript 深入箭头函数.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/01.  前端笔记/10.  基础部分/34.  JavaScript 原型与继承/01. JavaScript 原型继承 .md" beforePathEscaped="$PROJECT_DIR$/docs/01. 📚 前端笔记/10. 🚶 基础部分/34. 📘 JavaScript 原型与继承/01. JavaScript 原型继承 .md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/01.  前端笔记/10.  基础部分/34.  JavaScript 原型与继承/Untitled 1.md" beforePathEscaped="$PROJECT_DIR$/docs/01. 📚 前端笔记/10. 🚶 基础部分/34. 📘 JavaScript 原型与继承/Untitled 1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/03.  项目文档存档/01.   项目配置相关/10.  Spring 相关/10.  MyBatisPlus 插件相关使用.md" beforePathEscaped="$PROJECT_DIR$/docs/03. 📮 项目文档存档/01. 🗝  项目配置相关/10. 🍃 Spring 相关/10. 🐦 MyBatisPlus 插件相关使用.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/03.  项目文档存档/01.   项目配置相关/10.  Spring 相关/10.  MyBatisPlus 插件相关使用.md" afterPathEscaped="$PROJECT_DIR$/docs/03. 📮 项目文档存档/01. 🗝  项目配置相关/10. 🍃 Spring 相关/10. 🐦 MyBatisPlus 插件相关使用.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/03.  项目文档存档/01.   项目配置相关/20.  Ant Design Pro 配置.md" beforePathEscaped="$PROJECT_DIR$/docs/03. 📮 项目文档存档/01. 🗝  项目配置相关/20. 📍 Ant Design Pro 配置.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/03.  项目文档存档/01.   项目配置相关/20.  Ant Design Pro 配置.md" afterPathEscaped="$PROJECT_DIR$/docs/03. 📮 项目文档存档/01. 🗝  项目配置相关/20. 📍 Ant Design Pro 配置.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/03.  项目文档存档/10.  用户管理模版.md" beforePathEscaped="$PROJECT_DIR$/docs/03. 📮 项目文档存档/10. 🤖 用户管理模版.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/03.  项目文档存档/10.  用户管理模版.md" afterPathEscaped="$PROJECT_DIR$/docs/03. 📮 项目文档存档/10. 🤖 用户管理模版.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.  前端笔记/10.  基础部分/34.  JavaScript 原型与继承/03.  JavaScript 原生的原型.md" beforePathEscaped="$PROJECT_DIR$/docs/01. 📚 前端笔记/10. 🚶 基础部分/34. 📘 JavaScript 原型与继承/03. 🏕 JavaScript 原生的原型.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/01.  前端笔记/10.  基础部分/34.  JavaScript 原型与继承/03.  JavaScript 原生的原型.md" afterPathEscaped="$PROJECT_DIR$/docs/01. 📚 前端笔记/10. 🚶 基础部分/34. 📘 JavaScript 原型与继承/03. 🏕 JavaScript 原生的原型.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.  前端笔记/10.  基础部分/34.  JavaScript 原型与继承/04.  JavaScript 原型方法.md" beforePathEscaped="$PROJECT_DIR$/docs/01. 📚 前端笔记/10. 🚶 基础部分/34. 📘 JavaScript 原型与继承/04. 🏜 JavaScript 原型方法.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/01.  前端笔记/10.  基础部分/34.  JavaScript 原型与继承/04.  JavaScript 原型方法.md" afterPathEscaped="$PROJECT_DIR$/docs/01. 📚 前端笔记/10. 🚶 基础部分/34. 📘 JavaScript 原型与继承/04. 🏜 JavaScript 原型方法.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +79,7 @@
       <workItem from="1651825761691" duration="3262000" />
       <workItem from="1651987430330" duration="729000" />
       <workItem from="1652284701724" duration="193000" />
-      <workItem from="1652500389170" duration="186000" />
+      <workItem from="1652500389170" duration="747000" />
     </task>
     <task id="LOCAL-00001" summary="update: JavaScript related content">
       <created>1651825811053</created>
@@ -129,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652500403333</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="update: content update">
+      <created>1652510810789</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1652510810789</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
