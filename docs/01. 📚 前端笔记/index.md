@@ -4,7 +4,7 @@ pageComponent:
   data:
     key: 01. 📚 前端笔记
     imgUrl: null
-    description: 本页面分类为前端学习笔记。包括以下内容<br> (C) Simon luo (simon1uo)
+    description: 关于学习前端过程中，为了熟悉顺便收集的学习前端的笔记内容。
 title: 📚 前端笔记
 date: 2020-03-11 21:50:55
 permalink: /front-end
