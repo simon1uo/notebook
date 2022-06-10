@@ -62,10 +62,5 @@ export default <UserPlugins>[
             }
         }
     ],
-    [
-        // vue-tabs-component
-        'tabs',
-        {}
-    ],
     ['@vuepress/nprogress']
 ]
