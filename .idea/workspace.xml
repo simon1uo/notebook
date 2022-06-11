@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c2cd058e-cf1f-48b5-934b-e71eff147289" name="Changes" comment="feat: update iframe examples">
-      <change afterPath="$PROJECT_DIR$/docs/101.  前端巩固基础/90.  axios/01.  axios 理解与使用.md" afterPathEscaped="$PROJECT_DIR$/docs/101. 🚶🏻 前端巩固基础/90. 🚟 axios/01. 🚋 axios 理解与使用.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/101.  前端巩固基础/90.  axios/10.  使用 TypeScript 重构 axios 库/01.  初始化 TypeScript 库项目.md" afterPathEscaped="$PROJECT_DIR$/docs/101. 🚶🏻 前端巩固基础/90. 🚟 axios/10. 💽 使用 TypeScript 重构 axios 库/01. 🌑 初始化 TypeScript 库项目.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/101.  前端巩固基础/90.  axios/10.  使用 TypeScript 重构 axios 库/03.  基础功能实现/02.  基础请求.md" afterPathEscaped="$PROJECT_DIR$/docs/101. 🚶🏻 前端巩固基础/90. 🚟 axios/10. 💽 使用 TypeScript 重构 axios 库/03. 🌒 基础功能实现/02. 🌒 基础请求.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/101.  前端巩固基础/90.  axios/10.  使用 TypeScript 重构 axios 库/03.  基础功能实现/03.  实现处理请求 URL 参数.md" afterPathEscaped="$PROJECT_DIR$/docs/101. 🚶🏻 前端巩固基础/90. 🚟 axios/10. 💽 使用 TypeScript 重构 axios 库/03. 🌒 基础功能实现/03. 🌒 实现处理请求 URL 参数.md" afterDir="false" />
+    <list default="true" id="c2cd058e-cf1f-48b5-934b-e71eff147289" name="Changes" comment="update: update contents">
+      <change afterPath="$PROJECT_DIR$/docs/101.  前端巩固基础/90.  axios/10.  使用 TypeScript 重构 axios 库/04.  实现处理请求 body 数据.md" afterPathEscaped="$PROJECT_DIR$/docs/101. 🚶🏻 前端巩固基础/90. 🚟 axios/10. 💽 使用 TypeScript 重构 axios 库/04. 🌒 实现处理请求 body 数据.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/101.  前端巩固基础/90.  axios/10.  使用 TypeScript 重构 axios 库/05.  实现处理请求 head.md" afterPathEscaped="$PROJECT_DIR$/docs/101. 🚶🏻 前端巩固基础/90. 🚟 axios/10. 💽 使用 TypeScript 重构 axios 库/05. 🌒 实现处理请求 head.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/101.  前端巩固基础/90.  axios/10.  使用 TypeScript 重构 axios 库/06.  获取响应数据.md" afterPathEscaped="$PROJECT_DIR$/docs/101. 🚶🏻 前端巩固基础/90. 🚟 axios/10. 💽 使用 TypeScript 重构 axios 库/06. 🌒 获取响应数据.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/101.  前端巩固基础/90.  axios/10.  使用 TypeScript 重构 axios 库/07.  实现处理响应 header 和 data.md" afterPathEscaped="$PROJECT_DIR$/docs/101. 🚶🏻 前端巩固基础/90. 🚟 axios/10. 💽 使用 TypeScript 重构 axios 库/07. 🌒 实现处理响应 header 和 data.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/101.  前端巩固基础/90.  axios/10.  使用 TypeScript 重构 axios 库/10.  实现异常情况处理.md" afterPathEscaped="$PROJECT_DIR$/docs/101. 🚶🏻 前端巩固基础/90. 🚟 axios/10. 💽 使用 TypeScript 重构 axios 库/10. 🌘 实现异常情况处理.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/101.  前端巩固基础/90. axios/01.  axios 理解与使用.md" beforePathEscaped="$PROJECT_DIR$/docs/101. 🚶🏻 前端巩固基础/90.🚟 axios/01. 🚋 axios 理解与使用.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/101.  前端巩固基础/90. axios/10.  使用 TypeScript 封装 axios 库/01.  初始化 TypeScript 库项目.md" beforePathEscaped="$PROJECT_DIR$/docs/101. 🚶🏻 前端巩固基础/90.🚟 axios/10. 💽 使用 TypeScript 封装 axios 库/01. 🌑 初始化 TypeScript 库项目.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/100.  前端入门基础/20.  CSS/50.  CSS 示例/01.  列表布局示例.md" beforePathEscaped="$PROJECT_DIR$/docs/100. 🚶 前端入门基础/20. 🎨 CSS/50. 🪅 CSS 示例/01. 🧾 列表布局示例.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/100.  前端入门基础/20.  CSS/110.  CSS 示例/01.  列表布局示例.md" afterPathEscaped="$PROJECT_DIR$/docs/100. 🚶 前端入门基础/20. 🎨 CSS/110. 🪅 CSS 示例/01. 🧾 列表布局示例.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/100.  前端入门基础/20.  CSS/50.  CSS 示例/02.  浮动布局示例.md" beforePathEscaped="$PROJECT_DIR$/docs/100. 🚶 前端入门基础/20. 🎨 CSS/50. 🪅 CSS 示例/02. 🌬 浮动布局示例.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/100.  前端入门基础/20.  CSS/110.  CSS 示例/02.  浮动布局示例.md" afterPathEscaped="$PROJECT_DIR$/docs/100. 🚶 前端入门基础/20. 🎨 CSS/110. 🪅 CSS 示例/02. 🌬 浮动布局示例.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/100.  前端入门基础/20.  CSS/50.  CSS 示例/03. 定位实例.md" beforePathEscaped="$PROJECT_DIR$/docs/100. 🚶 前端入门基础/20. 🎨 CSS/50. 🪅 CSS 示例/03. 🚏定位实例.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/100.  前端入门基础/20.  CSS/110.  CSS 示例/03. 定位实例.md" afterPathEscaped="$PROJECT_DIR$/docs/100. 🚶 前端入门基础/20. 🎨 CSS/110. 🪅 CSS 示例/03. 🚏定位实例.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/100.  前端入门基础/20.  CSS/50.  CSS 示例/04.  弹性盒布局实例.md" beforePathEscaped="$PROJECT_DIR$/docs/100. 🚶 前端入门基础/20. 🎨 CSS/50. 🪅 CSS 示例/04. 📦 弹性盒布局实例.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/100.  前端入门基础/20.  CSS/110.  CSS 示例/04.  弹性盒布局实例.md" afterPathEscaped="$PROJECT_DIR$/docs/100. 🚶 前端入门基础/20. 🎨 CSS/110. 🪅 CSS 示例/04. 📦 弹性盒布局实例.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/100.  前端入门基础/20.  CSS/50.  CSS 示例/05.  使用 CSS 绘制图形.md" beforePathEscaped="$PROJECT_DIR$/docs/100. 🚶 前端入门基础/20. 🎨 CSS/50. 🪅 CSS 示例/05. 💙 使用 CSS 绘制图形.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/100.  前端入门基础/20.  CSS/110.  CSS 示例/05.  使用 CSS 绘制图形.md" afterPathEscaped="$PROJECT_DIR$/docs/100. 🚶 前端入门基础/20. 🎨 CSS/110. 🪅 CSS 示例/05. 💙 使用 CSS 绘制图形.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/100.  前端入门基础/20.  CSS/50.  CSS 示例/06. ❤️ 使用 CSS 制作动画.md" beforePathEscaped="$PROJECT_DIR$/docs/100. 🚶 前端入门基础/20. 🎨 CSS/50. 🪅 CSS 示例/06. ❤️ 使用 CSS 制作动画.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/100.  前端入门基础/20.  CSS/110.  CSS 示例/06. ❤️ 使用 CSS 制作动画.md" afterPathEscaped="$PROJECT_DIR$/docs/100. 🚶 前端入门基础/20. 🎨 CSS/110. 🪅 CSS 示例/06. ❤️ 使用 CSS 制作动画.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/101.  前端巩固基础/90.  axios/10.  使用 TypeScript 重构 axios 库/03.  基础功能实现/02.  基础请求.md" beforePathEscaped="$PROJECT_DIR$/docs/101. 🚶🏻 前端巩固基础/90. 🚟 axios/10. 💽 使用 TypeScript 重构 axios 库/03. 🌒 基础功能实现/02. 🌒 基础请求.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/101.  前端巩固基础/90.  axios/10.  使用 TypeScript 重构 axios 库/02.  实现基础请求.md" afterPathEscaped="$PROJECT_DIR$/docs/101. 🚶🏻 前端巩固基础/90. 🚟 axios/10. 💽 使用 TypeScript 重构 axios 库/02. 🌒 实现基础请求.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/101.  前端巩固基础/90.  axios/10.  使用 TypeScript 重构 axios 库/03.  基础功能实现/03.  实现处理请求 URL 参数.md" beforePathEscaped="$PROJECT_DIR$/docs/101. 🚶🏻 前端巩固基础/90. 🚟 axios/10. 💽 使用 TypeScript 重构 axios 库/03. 🌒 基础功能实现/03. 🌒 实现处理请求 URL 参数.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/101.  前端巩固基础/90.  axios/10.  使用 TypeScript 重构 axios 库/03.  实现处理请求 URL 参数.md" afterPathEscaped="$PROJECT_DIR$/docs/101. 🚶🏻 前端巩固基础/90. 🚟 axios/10. 💽 使用 TypeScript 重构 axios 库/03. 🌒 实现处理请求 URL 参数.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/200.  前端面试题收集/04.  JavaScript 相关/01.  JavaScript BOM 相关问题.md" beforePathEscaped="$PROJECT_DIR$/docs/200. 🪞 前端面试题收集/04. 🗾 JavaScript 相关/01. 🍏 JavaScript BOM 相关问题.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/200.  前端面试题收集/04.  JavaScript 相关/20.  JavaScript BOM 相关问题.md" afterPathEscaped="$PROJECT_DIR$/docs/200. 🪞 前端面试题收集/04. 🗾 JavaScript 相关/20. 🍏 JavaScript BOM 相关问题.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,13 +57,14 @@
       <recent name="$PROJECT_DIR$/docs/01. 📚 前端笔记/02. 💻 前端学习笔记" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/101. 🚶🏻 前端巩固基础/90. 🚟 axios/10. 💽 使用 TypeScript 重构 axios 库" />
       <recent name="$PROJECT_DIR$/docs" />
       <recent name="$PROJECT_DIR$/docs/101. 🚶🏻 前端巩固基础" />
       <recent name="$PROJECT_DIR$/docs/105. 🏃 前端核心框架" />
       <recent name="$PROJECT_DIR$/docs/01. 📚 前端笔记" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.dev">
+  <component name="RunManager" selected="npm.deploy">
     <configuration name="yarn dev" type="ShConfigurationType">
       <option name="SCRIPT_TEXT" value="yarn dev" />
       <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
@@ -118,7 +127,7 @@
       <workItem from="1654789109181" duration="9127000" />
       <workItem from="1654862334933" duration="904000" />
       <workItem from="1654866748683" duration="35000" />
-      <workItem from="1654874392879" duration="235000" />
+      <workItem from="1654874392879" duration="3758000" />
     </task>
     <task id="LOCAL-00001" summary="update: JavaScript related content">
       <created>1651825811053</created>
@@ -211,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654862575621</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="update: update contents">
+      <created>1654875696941</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1654875696941</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,7 +254,8 @@
     <MESSAGE value="update: archive contents to specific folder" />
     <MESSAGE value="feat: add prettier config" />
     <MESSAGE value="feat: update iframe examples" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: update iframe examples" />
+    <MESSAGE value="update: update contents" />
+    <option name="LAST_COMMIT_MESSAGE" value="update: update contents" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
