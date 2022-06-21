@@ -11,7 +11,7 @@ import { resolve } from 'path'
 export default defineConfig4CustomTheme<VdoingThemeConfig>({
     // theme: 'vdoing',
     theme: resolve(__dirname, '../../vdoing'),
-    title: 'notebook 🖊',
+    title: 'notebook',
     description: 'a frontend notebook by Simon',
     dest: 'dist',
     base: '/notebook/', // base url
