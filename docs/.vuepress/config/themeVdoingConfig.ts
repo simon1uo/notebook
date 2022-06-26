@@ -86,6 +86,6 @@ export default <VdoingThemeConfig>{
 
     footer: {
         createYear: 2020, // 博客创建年份
-        copyrightInfo: '<br> Simon Luo Wrote with 💙 <br>'
+        copyrightInfo: ''
     }
 }

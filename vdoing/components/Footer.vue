@@ -14,20 +14,20 @@
         <!--Vdoing主题遵循MIT协议，完全开源且免费。如果您对主题的修改并不大，希望您保留主题的链接。-->
 
         <template v-if="footer">
-            A frontend notebook | Copyright © {{ footer.createYear }}-{{
+            Copyright © {{ footer.createYear }}-{{
                 new Date().getFullYear()
             }}
             |
-            <span v-html="footer.copyrightInfo"></span>
+            <span v-html="footer.copyrightInfo"/>
         </template>
 
-        Theme on based
+        theme on based
         <a
             href="https://github.com/xugaoyi/vuepress-theme-vdoing"
             target="_blank"
             title="theme"
             >Vdoing</a
-        >
+        > powered By Vuepress
     </div>
 </template>
 
@@ -48,7 +48,7 @@ export default {
 // $mobileSidebarWidth = $sidebarWidth * 0.82
 .footer
   padding 5rem 1.5rem 2.5rem
-  text-align center
+  text-align right
   color #666
   box-sizing border-box
   font-size 0.85rem
