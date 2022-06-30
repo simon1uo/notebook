@@ -1,76 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c2cd058e-cf1f-48b5-934b-e71eff147289" name="Changes" comment="update: update contents">
-      <change afterPath="$PROJECT_DIR$/docs/105.  前端核心框架/10. ️ Vue 基础/01.  Vue 的基本使用.md" afterPathEscaped="$PROJECT_DIR$/docs/105. 🏃 前端核心框架/10. 🌧️ Vue 基础/01. 🌨 Vue 的基本使用.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/105.  前端核心框架/10. ️ Vue 基础/03.  Vue 数据绑定原理.md" afterPathEscaped="$PROJECT_DIR$/docs/105. 🏃 前端核心框架/10. 🌧️ Vue 基础/03. 🌔 Vue 数据绑定原理.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/105.  前端核心框架/10. ️ Vue 基础/04.  Vue 事件处理.md" afterPathEscaped="$PROJECT_DIR$/docs/105. 🏃 前端核心框架/10. 🌧️ Vue 基础/04. 🌗 Vue 事件处理.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/105.  前端核心框架/10. ️ Vue 基础/05.  Vue 计算属性与侦听器md.md" afterPathEscaped="$PROJECT_DIR$/docs/105. 🏃 前端核心框架/10. 🌧️ Vue 基础/05. 🌓 Vue 计算属性与侦听器md.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/105.  前端核心框架/10. ️ Vue 基础/06.  Vue 样式绑定.md" afterPathEscaped="$PROJECT_DIR$/docs/105. 🏃 前端核心框架/10. 🌧️ Vue 基础/06. 🌗 Vue 样式绑定.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/105.  前端核心框架/10. ️ Vue 基础/07.  Vue 指令.md" afterPathEscaped="$PROJECT_DIR$/docs/105. 🏃 前端核心框架/10. 🌧️ Vue 基础/07. 🌑 Vue 指令.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/105.  前端核心框架/10. ️ Vue 基础/08.  Vue 条件渲染与列表渲染.md" afterPathEscaped="$PROJECT_DIR$/docs/105. 🏃 前端核心框架/10. 🌧️ Vue 基础/08. 🌒 Vue 条件渲染与列表渲染.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/105.  前端核心框架/10. ️ Vue 基础/09.  Vue 生命周期.md" afterPathEscaped="$PROJECT_DIR$/docs/105. 🏃 前端核心框架/10. 🌧️ Vue 基础/09. 🌞 Vue 生命周期.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/105.  前端核心框架/10. ️ Vue 基础/30. ✨ Vue 实用实例.md" afterPathEscaped="$PROJECT_DIR$/docs/105. 🏃 前端核心框架/10. 🌧️ Vue 基础/30. ✨ Vue 实用实例.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/105.  前端核心框架/11. ⛈ Vue 组件编程/01.  Vue 组件化编程概念.md" afterPathEscaped="$PROJECT_DIR$/docs/105. 🏃 前端核心框架/11. ⛈ Vue 组件编程/01. 🌘 Vue 组件化编程概念.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/105.  前端核心框架/11. ⛈ Vue 组件编程/02. Vue 组件基础.md" afterPathEscaped="$PROJECT_DIR$/docs/105. 🏃 前端核心框架/11. ⛈ Vue 组件编程/02.🌈 Vue 组件基础.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/105.  前端核心框架/11. ⛈ Vue 组件编程/03.  Vue 脚手架.md" afterPathEscaped="$PROJECT_DIR$/docs/105. 🏃 前端核心框架/11. ⛈ Vue 组件编程/03. 🌗 Vue 脚手架.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/105.  前端核心框架/11. ⛈ Vue 组件编程/04.  Vue 浏览器本地存储.md" afterPathEscaped="$PROJECT_DIR$/docs/105. 🏃 前端核心框架/11. ⛈ Vue 组件编程/04. 🪐 Vue 浏览器本地存储.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/105.  前端核心框架/11. ⛈ Vue 组件编程/05.  Vue 组件自定义事件.md" afterPathEscaped="$PROJECT_DIR$/docs/105. 🏃 前端核心框架/11. ⛈ Vue 组件编程/05. 💫 Vue 组件自定义事件.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/105.  前端核心框架/11. ⛈ Vue 组件编程/06. ☀️ Vue 全局事件总线.md" afterPathEscaped="$PROJECT_DIR$/docs/105. 🏃 前端核心框架/11. ⛈ Vue 组件编程/06. ☀️ Vue 全局事件总线.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/105.  前端核心框架/11. ⛈ Vue 组件编程/10. ⚡️ Vue 消息订阅与发布.md" afterPathEscaped="$PROJECT_DIR$/docs/105. 🏃 前端核心框架/11. ⛈ Vue 组件编程/10. ⚡️ Vue 消息订阅与发布.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/105.  前端核心框架/11. ⛈ Vue 组件编程/100.  Vue 组件编程案例.md" afterPathEscaped="$PROJECT_DIR$/docs/105. 🏃 前端核心框架/11. ⛈ Vue 组件编程/100. 🌕 Vue 组件编程案例.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/105.  前端核心框架/11. ⛈ Vue 组件编程/20.  Vue 动画与过渡.md" afterPathEscaped="$PROJECT_DIR$/docs/105. 🏃 前端核心框架/11. ⛈ Vue 组件编程/20. 🌙 Vue 动画与过渡.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/105.  前端核心框架/11. ⛈ Vue 组件编程/30.  Vue 中的 AJAX.md" afterPathEscaped="$PROJECT_DIR$/docs/105. 🏃 前端核心框架/11. ⛈ Vue 组件编程/30. 🛒 Vue 中的 AJAX.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/105.  前端核心框架/11. ⛈ Vue 组件编程/40.  Vuex 状态管理.md" afterPathEscaped="$PROJECT_DIR$/docs/105. 🏃 前端核心框架/11. ⛈ Vue 组件编程/40. 🌩 Vuex 状态管理.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/105.  前端核心框架/11. ⛈ Vue 组件编程/45. ✨ Vue Slot 插槽 .md" afterPathEscaped="$PROJECT_DIR$/docs/105. 🏃 前端核心框架/11. ⛈ Vue 组件编程/45. ✨ Vue Slot 插槽 .md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/105.  前端核心框架/11. ⛈ Vue 组件编程/50. ☔️ Vue Router 路由.md" afterPathEscaped="$PROJECT_DIR$/docs/105. 🏃 前端核心框架/11. ⛈ Vue 组件编程/50. ☔️ Vue Router 路由.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/105.  前端核心框架/15.  Vue 3 组合式 API/01. ☂️ Vue 3 创建项目.md" afterPathEscaped="$PROJECT_DIR$/docs/105. 🏃 前端核心框架/15. 🌨 Vue 3 组合式 API/01. ☂️ Vue 3 创建项目.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/105.  前端核心框架/15.  Vue 3 组合式 API/02.  Vue 3 的组合 API 编程.md" afterPathEscaped="$PROJECT_DIR$/docs/105. 🏃 前端核心框架/15. 🌨 Vue 3 组合式 API/02. 🧊 Vue 3 的组合 API 编程.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/105.  前端核心框架/15.  Vue 3 组合式 API/03.  Vue 3 其他更新.md" afterPathEscaped="$PROJECT_DIR$/docs/105. 🏃 前端核心框架/15. 🌨 Vue 3 组合式 API/03. 🌊 Vue 3 其他更新.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/200.  前端面试题收集/03.  CSS 相关/90.  CSS 性能优化相关.md" afterPathEscaped="$PROJECT_DIR$/docs/200. 🪞 前端面试题收集/03. 🏞 CSS 相关/90. 🍏 CSS 性能优化相关.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/200.  前端面试题收集/04.  JavaScript 相关/01.  JavaScript 数据类型相关/04.  JavaScript typeof 与 instanceof.md" afterPathEscaped="$PROJECT_DIR$/docs/200. 🪞 前端面试题收集/04. 🗾 JavaScript 相关/01. 🍎 JavaScript 数据类型相关/04. 🍏 JavaScript typeof 与 instanceof.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/200.  前端面试题收集/04.  JavaScript 相关/03.  JavaScript 函数相关/04.  JavaScript 执行上下文与执行栈.md" afterPathEscaped="$PROJECT_DIR$/docs/200. 🪞 前端面试题收集/04. 🗾 JavaScript 相关/03. 🍎 JavaScript 函数相关/04. 🍎 JavaScript 执行上下文与执行栈.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/200.  前端面试题收集/04.  JavaScript 相关/10.  JavaScript 事件模型.md" afterPathEscaped="$PROJECT_DIR$/docs/200. 🪞 前端面试题收集/04. 🗾 JavaScript 相关/10. 🍎 JavaScript 事件模型.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/200.  前端面试题收集/20.  NodeJS 相关/02.  NodeJS 的全局对象.md" afterPathEscaped="$PROJECT_DIR$/docs/200. 🪞 前端面试题收集/20. 📦 NodeJS 相关/02. 🍎 NodeJS 的全局对象.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/key.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/key.txt.pub" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/workflows/deploy.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/deploy.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/100.  前端入门基础/20.  CSS/02.  CSS 单位.md" beforePathEscaped="$PROJECT_DIR$/docs/100. 🚶 前端入门基础/20. 🎨 CSS/02. 🥽 CSS 单位.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/100.  前端入门基础/20.  CSS/02.  CSS 单位.md" afterPathEscaped="$PROJECT_DIR$/docs/100. 🚶 前端入门基础/20. 🎨 CSS/02. 🥽 CSS 单位.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/101.  前端巩固基础/50.  JavaScript 进阶高级/04.  JavaScript 执行上下文与执行上下文栈.md" beforePathEscaped="$PROJECT_DIR$/docs/101. 🚶🏻 前端巩固基础/50. 🏃 JavaScript 进阶高级/04. 🪜 JavaScript 执行上下文与执行上下文栈.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/101.  前端巩固基础/50.  JavaScript 进阶高级/04.  JavaScript 执行上下文与执行上下文栈.md" afterPathEscaped="$PROJECT_DIR$/docs/101. 🚶🏻 前端巩固基础/50. 🏃 JavaScript 进阶高级/04. 🪜 JavaScript 执行上下文与执行上下文栈.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/105.  前端核心框架/04. ☔️ 核心框架项目搭建/01.   Vue 3  + TypeScript  项目搭建.md" beforePathEscaped="$PROJECT_DIR$/docs/105. 🏃 前端核心框架/04. ☔️ 核心框架项目搭建/01. 🪝  Vue 3  + TypeScript  项目搭建.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/105.  前端核心框架/04. ☔️ 核心框架项目搭建/01.   Vue 3  + TypeScript  项目搭建.md" afterPathEscaped="$PROJECT_DIR$/docs/105. 🏃 前端核心框架/04. ☔️ 核心框架项目搭建/01. 🪝  Vue 3  + TypeScript  项目搭建.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/105.  前端核心框架/10. ️ Vue 基础/01.  Vue 介绍与基本使用.md" beforePathEscaped="$PROJECT_DIR$/docs/105. 🏃 前端核心框架/10. 🌧️ Vue 基础/01. 🌨 Vue 介绍与基本使用.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/105.  前端核心框架/10. ️ Vue 基础/02.  Vue 模版语法.md" beforePathEscaped="$PROJECT_DIR$/docs/105. 🏃 前端核心框架/10. 🌧️ Vue 基础/02. 🌕 Vue 模版语法.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/105.  前端核心框架/10. ️ Vue 基础/02.  Vue 模版语法.md" afterPathEscaped="$PROJECT_DIR$/docs/105. 🏃 前端核心框架/10. 🌧️ Vue 基础/02. 🌕 Vue 模版语法.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/105.  前端核心框架/10. ️ Vue 基础/03.  Vue 数据代理, 事件处理.md" beforePathEscaped="$PROJECT_DIR$/docs/105. 🏃 前端核心框架/10. 🌧️ Vue 基础/03. 🌔 Vue 数据代理, 事件处理.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/105.  前端核心框架/10. ️ Vue 基础/04.  Vue 计算属性与监视.md" beforePathEscaped="$PROJECT_DIR$/docs/105. 🏃 前端核心框架/10. 🌧️ Vue 基础/04. 🌓 Vue 计算属性与监视.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/105.  前端核心框架/10. ️ Vue 基础/05.  Vue 条件渲染, 列表渲染.md" beforePathEscaped="$PROJECT_DIR$/docs/105. 🏃 前端核心框架/10. 🌧️ Vue 基础/05. 🌒 Vue 条件渲染, 列表渲染.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/105.  前端核心框架/10. ️ Vue 基础/06.  Vue 指令.md" beforePathEscaped="$PROJECT_DIR$/docs/105. 🏃 前端核心框架/10. 🌧️ Vue 基础/06. 🌑 Vue 指令.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/105.  前端核心框架/10. ️ Vue 基础/07.  Vue 声明周期.md" beforePathEscaped="$PROJECT_DIR$/docs/105. 🏃 前端核心框架/10. 🌧️ Vue 基础/07. 🌞 Vue 声明周期.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/105.  前端核心框架/10. ️ Vue 基础/10. ✨ Vue 实用实例.md" beforePathEscaped="$PROJECT_DIR$/docs/105. 🏃 前端核心框架/10. 🌧️ Vue 基础/10. ✨ Vue 实用实例.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/105.  前端核心框架/11. ⛈ Vue 脚手架/01.  Vue 组件化编程概念.md" beforePathEscaped="$PROJECT_DIR$/docs/105. 🏃 前端核心框架/11. ⛈ Vue 脚手架/01. 🌘 Vue 组件化编程概念.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/105.  前端核心框架/11. ⛈ Vue 脚手架/02.  Vue 脚手架.md" beforePathEscaped="$PROJECT_DIR$/docs/105. 🏃 前端核心框架/11. ⛈ Vue 脚手架/02. 🌗 Vue 脚手架.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/105.  前端核心框架/11. ⛈ Vue 脚手架/03.  Vue 脚手架案例.md" beforePathEscaped="$PROJECT_DIR$/docs/105. 🏃 前端核心框架/11. ⛈ Vue 脚手架/03. 🌕 Vue 脚手架案例.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/105.  前端核心框架/11. ⛈ Vue 脚手架/04.  Vue 浏览器本地存储.md" beforePathEscaped="$PROJECT_DIR$/docs/105. 🏃 前端核心框架/11. ⛈ Vue 脚手架/04. 🪐 Vue 浏览器本地存储.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/105.  前端核心框架/11. ⛈ Vue 脚手架/05.  Vue 组件自定义事件.md" beforePathEscaped="$PROJECT_DIR$/docs/105. 🏃 前端核心框架/11. ⛈ Vue 脚手架/05. 💫 Vue 组件自定义事件.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/105.  前端核心框架/11. ⛈ Vue 脚手架/06. ☀️ Vue 全局事件总线.md" beforePathEscaped="$PROJECT_DIR$/docs/105. 🏃 前端核心框架/11. ⛈ Vue 脚手架/06. ☀️ Vue 全局事件总线.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/105.  前端核心框架/11. ⛈ Vue 脚手架/07. ⚡️ Vue 消息订阅与发布.md" beforePathEscaped="$PROJECT_DIR$/docs/105. 🏃 前端核心框架/11. ⛈ Vue 脚手架/07. ⚡️ Vue 消息订阅与发布.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/105.  前端核心框架/11. ⛈ Vue 脚手架/08.  Vue 动画与过渡.md" beforePathEscaped="$PROJECT_DIR$/docs/105. 🏃 前端核心框架/11. ⛈ Vue 脚手架/08. 🌙 Vue 动画与过渡.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/105.  前端核心框架/11. ⛈ Vue 脚手架/09.  Vue 中的 AJAX.md" beforePathEscaped="$PROJECT_DIR$/docs/105. 🏃 前端核心框架/11. ⛈ Vue 脚手架/09. 🛒 Vue 中的 AJAX.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/105.  前端核心框架/11. ⛈ Vue 脚手架/10.  Vuex.md" beforePathEscaped="$PROJECT_DIR$/docs/105. 🏃 前端核心框架/11. ⛈ Vue 脚手架/10. 🌩 Vuex.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/105.  前端核心框架/11. ⛈ Vue 脚手架/11. ☔️ Vue 路由.md" beforePathEscaped="$PROJECT_DIR$/docs/105. 🏃 前端核心框架/11. ⛈ Vue 脚手架/11. ☔️ Vue 路由.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/105.  前端核心框架/15.  Vue 3/01. ☂️ Vue 3 上手.md" beforePathEscaped="$PROJECT_DIR$/docs/105. 🏃 前端核心框架/15. 🌨 Vue 3/01. ☂️ Vue 3 上手.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/105.  前端核心框架/15.  Vue 3/02.  Vue 3 的组合 API 编程.md" beforePathEscaped="$PROJECT_DIR$/docs/105. 🏃 前端核心框架/15. 🌨 Vue 3/02. 🧊 Vue 3 的组合 API 编程.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/105.  前端核心框架/15.  Vue 3/03.  Vue 3 其他更新.md" beforePathEscaped="$PROJECT_DIR$/docs/105. 🏃 前端核心框架/15. 🌨 Vue 3/03. 🌊 Vue 3 其他更新.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/200.  前端面试题收集/01.  HTTP 相关/02.  HTTP 常见的请求头.md" beforePathEscaped="$PROJECT_DIR$/docs/200. 🪞 前端面试题收集/01. 🏙 HTTP 相关/02. 🍏 HTTP 常见的请求头.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/200.  前端面试题收集/01.  HTTP 相关/02.  HTTP 常见的请求头.md" afterPathEscaped="$PROJECT_DIR$/docs/200. 🪞 前端面试题收集/01. 🏙 HTTP 相关/02. 🍏 HTTP 常见的请求头.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/200.  前端面试题收集/03.  CSS 相关/03.  CSS 的计量单位相关.md" beforePathEscaped="$PROJECT_DIR$/docs/200. 🪞 前端面试题收集/03. 🏞 CSS 相关/03. 🍎 CSS 的计量单位相关.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/200.  前端面试题收集/03.  CSS 相关/03.  CSS 的计量单位相关.md" afterPathEscaped="$PROJECT_DIR$/docs/200. 🪞 前端面试题收集/03. 🏞 CSS 相关/03. 🍎 CSS 的计量单位相关.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/200.  前端面试题收集/03.  CSS 相关/04.  CSS 实现隐藏元素.md" beforePathEscaped="$PROJECT_DIR$/docs/200. 🪞 前端面试题收集/03. 🏞 CSS 相关/04. 🍏 CSS 实现隐藏元素.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/200.  前端面试题收集/03.  CSS 相关/04.  CSS 实现隐藏元素.md" afterPathEscaped="$PROJECT_DIR$/docs/200. 🪞 前端面试题收集/03. 🏞 CSS 相关/04. 🍏 CSS 实现隐藏元素.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/200.  前端面试题收集/04.  JavaScript 相关/01.  JavaScript 数据类型相关/01.  JavaScript 数据类型.md" beforePathEscaped="$PROJECT_DIR$/docs/200. 🪞 前端面试题收集/04. 🗾 JavaScript 相关/01. 🍎 JavaScript 数据类型相关/01. 🍎 JavaScript 数据类型.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/200.  前端面试题收集/04.  JavaScript 相关/01.  JavaScript 数据类型相关/01.  JavaScript 数据类型.md" afterPathEscaped="$PROJECT_DIR$/docs/200. 🪞 前端面试题收集/04. 🗾 JavaScript 相关/01. 🍎 JavaScript 数据类型相关/01. 🍎 JavaScript 数据类型.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/200.  前端面试题收集/04.  JavaScript 相关/01.  JavaScript 数据类型相关/02.  JavaScript 数组常用方法.md" beforePathEscaped="$PROJECT_DIR$/docs/200. 🪞 前端面试题收集/04. 🗾 JavaScript 相关/01. 🍎 JavaScript 数据类型相关/02. 🍎 JavaScript 数组常用方法.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/200.  前端面试题收集/04.  JavaScript 相关/01.  JavaScript 数据类型相关/02.  JavaScript 数组常用方法.md" afterPathEscaped="$PROJECT_DIR$/docs/200. 🪞 前端面试题收集/04. 🗾 JavaScript 相关/01. 🍎 JavaScript 数据类型相关/02. 🍎 JavaScript 数组常用方法.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/200.  前端面试题收集/04.  JavaScript 相关/01.  JavaScript 数据类型相关/03.  JavaScript 字符串常用方法.md" beforePathEscaped="$PROJECT_DIR$/docs/200. 🪞 前端面试题收集/04. 🗾 JavaScript 相关/01. 🍎 JavaScript 数据类型相关/03. 🍎 JavaScript 字符串常用方法.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/200.  前端面试题收集/04.  JavaScript 相关/01.  JavaScript 数据类型相关/03.  JavaScript 字符串常用方法.md" afterPathEscaped="$PROJECT_DIR$/docs/200. 🪞 前端面试题收集/04. 🗾 JavaScript 相关/01. 🍎 JavaScript 数据类型相关/03. 🍎 JavaScript 字符串常用方法.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/200.  前端面试题收集/04.  JavaScript 相关/03.  JavaScript 函数相关/01.  JavaScript 函数 this 指向问题.md" beforePathEscaped="$PROJECT_DIR$/docs/200. 🪞 前端面试题收集/04. 🗾 JavaScript 相关/03. 🍎 JavaScript 函数相关/01. 🍎 JavaScript 函数 this 指向问题.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/200.  前端面试题收集/04.  JavaScript 相关/03.  JavaScript 函数相关/01.  JavaScript 函数 this 指向问题.md" afterPathEscaped="$PROJECT_DIR$/docs/200. 🪞 前端面试题收集/04. 🗾 JavaScript 相关/03. 🍎 JavaScript 函数相关/01. 🍎 JavaScript 函数 this 指向问题.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/200.  前端面试题收集/04.  JavaScript 相关/10.  ES6 相关/04.  Generator 相关.md" beforePathEscaped="$PROJECT_DIR$/docs/200. 🪞 前端面试题收集/04. 🗾 JavaScript 相关/10. 🍎 ES6 相关/04. 🍏 Generator 相关.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/200.  前端面试题收集/04.  JavaScript 相关/10.  ES6 相关/04.  Generator 相关.md" afterPathEscaped="$PROJECT_DIR$/docs/200. 🪞 前端面试题收集/04. 🗾 JavaScript 相关/10. 🍎 ES6 相关/04. 🍏 Generator 相关.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-    </list>
+    <list default="true" id="c2cd058e-cf1f-48b5-934b-e71eff147289" name="Changes" comment="update: update README.md" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -202,7 +133,7 @@
       <workItem from="1655993793333" duration="283000" />
       <workItem from="1655999650338" duration="3079000" />
       <workItem from="1656258494040" duration="561000" />
-      <workItem from="1656598730858" duration="355000" />
+      <workItem from="1656598730858" duration="718000" />
     </task>
     <task id="LOCAL-00001" summary="update: JavaScript related content">
       <created>1651825811053</created>
@@ -372,7 +303,28 @@
       <option name="project" value="LOCAL" />
       <updated>1656258761967</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="update: update contents">
+      <created>1656599359548</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1656599359548</updated>
+    </task>
+    <task id="LOCAL-00026" summary="update: update config">
+      <created>1656599368851</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1656599368851</updated>
+    </task>
+    <task id="LOCAL-00027" summary="update: update README.md">
+      <created>1656599519319</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1656599519319</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -399,7 +351,9 @@
     <MESSAGE value="feat: add prettier config" />
     <MESSAGE value="feat: update iframe examples" />
     <MESSAGE value="update: update contents" />
-    <option name="LAST_COMMIT_MESSAGE" value="update: update contents" />
+    <MESSAGE value="update: update config" />
+    <MESSAGE value="update: update README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="update: update README.md" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
