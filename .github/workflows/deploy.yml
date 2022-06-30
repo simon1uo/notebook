@@ -33,10 +33,10 @@ jobs:
                   yarn build
 
             # 发布到 gh-page 分支
-#              - name: Deploy github
-#                uses: peaceiris/actions-gh-pages@v3
-#                with:
-#                  publish_dir: ./dist
-#                  deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-#                  user_name: "github-actions[bot]"
-#                  user_email: "github-actions[bot]@users.noreply.github.com"
+            - name: Deploy github
+              uses: peaceiris/actions-gh-pages@v3
+              with:
+                publish_dir: ./dist
+                deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+                user_name: "github-actions[bot]"
+                user_email: "github-actions[bot]@users.noreply.github.com"

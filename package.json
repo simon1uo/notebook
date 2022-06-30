@@ -1,5 +1,5 @@
 {
-  "name": "vuepress-theme-vdoing-template",
+  "name": "notebook",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/u2sb/vuepress-theme-vdoing-template.git"
+    "url": "git+https://github.com/simon1uo/notebook.git"
   },
   "author": "Simon Luo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/u2sb/vuepress-theme-vdoing-template/issues"
+    "url": "https://github.com/simon1uo/notebook/issues"
   },
-  "homepage": "https://github.com/u2sb/vuepress-theme-vdoing-template#readme",
+  "homepage": "https://github.com/simon1uo/notebook/",
   "dependencies": {
     "@vuepress/plugin-last-updated": "^1.9.7",
     "dayjs": "^1.11.1",
