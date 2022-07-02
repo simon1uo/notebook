@@ -137,30 +137,30 @@
                 <Content class="theme-vdoing-content custom card-box" />
             </template>
 
-            <template v-if="!homeData.hideRightBar" #mainRight>
-                <BloggerBar v-if="$themeConfig.blogger" />
-                <CategoriesBar
-                    v-if="
-                        $themeConfig.category !== false &&
-                        $categoriesAndTags.categories.length
-                    "
-                    :categoriesData="$categoriesAndTags.categories"
-                    :length="10"
-                />
-                <TagsBar
-                    v-if="
-                        $themeConfig.tag !== false &&
-                        $categoriesAndTags.tags.length
-                    "
-                    :tagsData="$categoriesAndTags.tags"
-                    :length="30"
-                />
-                <div
-                    class="custom-html-box card-box"
-                    v-if="homeSidebarB"
-                    v-html="homeSidebarB"
-                ></div>
-            </template>
+<!--            <template v-if="!homeData.hideRightBar" #mainRight>-->
+<!--                <BloggerBar v-if="$themeConfig.blogger" />-->
+<!--                <CategoriesBar-->
+<!--                    v-if="-->
+<!--                        $themeConfig.category !== false &&-->
+<!--                        $categoriesAndTags.categories.length-->
+<!--                    "-->
+<!--                    :categoriesData="$categoriesAndTags.categories"-->
+<!--                    :length="10"-->
+<!--                />-->
+<!--                <TagsBar-->
+<!--                    v-if="-->
+<!--                        $themeConfig.tag !== false &&-->
+<!--                        $categoriesAndTags.tags.length-->
+<!--                    "-->
+<!--                    :tagsData="$categoriesAndTags.tags"-->
+<!--                    :length="30"-->
+<!--                />-->
+<!--                <div-->
+<!--                    class="custom-html-box card-box"-->
+<!--                    v-if="homeSidebarB"-->
+<!--                    v-html="homeSidebarB"-->
+<!--                ></div>-->
+<!--            </template>-->
         </MainLayout>
     </div>
 </template>

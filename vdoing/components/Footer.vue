@@ -48,7 +48,7 @@ export default {
 // $mobileSidebarWidth = $sidebarWidth * 0.82
 .footer
   padding 5rem 1.5rem 2.5rem
-  text-align right
+  text-align center
   color #666
   box-sizing border-box
   font-size 0.85rem
