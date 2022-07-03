@@ -21,7 +21,7 @@
             <span v-html="footer.copyrightInfo"/>
         </template>
 
-        theme on based
+        theme based on
         <a
             href="https://github.com/xugaoyi/vuepress-theme-vdoing"
             target="_blank"

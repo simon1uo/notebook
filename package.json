@@ -24,6 +24,7 @@
   "homepage": "https://github.com/simon1uo/notebook/",
   "dependencies": {
     "@vuepress/plugin-last-updated": "^1.9.7",
+    "@vuepress/plugin-nprogress": "^1.9.7",
     "dayjs": "^1.11.1",
     "eslint": "^8.14.0",
     "markdown-it-abbr": "^1.0.4",
@@ -36,24 +37,25 @@
     "markdown-it-sub": "^1.0.0",
     "markdown-it-sup": "^1.0.0",
     "markdown-it-task-lists": "^2.1.1",
+    "vue": "^2.7.0",
     "vue-tabs-component": "^1.5.0",
     "vuepress": "^1.9.7",
+    "vuepress-plugin-demo-block": "^0.7.2",
     "vuepress-plugin-fulltext-search": "^2.2.1",
     "vuepress-plugin-one-click-copy": "^1.0.6",
     "vuepress-plugin-pangu": "^1.0.1",
     "vuepress-plugin-sitemap": "^2.3.1",
-    "vuepress-plugin-smplayer": "^1.5.2",
     "vuepress-plugin-zooming": "^1.1.8",
     "vuepress-theme-vdoing": "^1.11.1"
   },
   "devDependencies": {
-    "@vuepress/plugin-nprogress": "^1.9.7",
     "commitizen": "^4.2.4",
     "cz-conventional-changelog": "^3.3.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-prettier": "^4.0.0",
     "prettier": "^2.6.2",
-    "vuepress-plugin-demo-block": "^0.7.2"
+    "vue-server-renderer": "^2.7.0",
+    "vuepress-plugin-comment-plus": "^1.1.0"
   },
   "config": {
     "commitizen": {

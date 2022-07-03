@@ -86,6 +86,6 @@ export default <VdoingThemeConfig>{
 
     footer: {
         createYear: 2020, // 博客创建年份
-        copyrightInfo: ''
+        copyrightInfo: 'wrote with ❤️ by <a href="https://simon1uo.github.io">Simon</a></br>'
     }
 }
