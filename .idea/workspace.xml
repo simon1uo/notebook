@@ -1,17 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c2cd058e-cf1f-48b5-934b-e71eff147289" name="Changes" comment="update: update contents">
-      <change beforePath="$PROJECT_DIR$/docs/10.  关于/index.md" beforePathEscaped="$PROJECT_DIR$/docs/10. 🪧 关于/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/10.  关于/index.md" afterPathEscaped="$PROJECT_DIR$/docs/10. 🪧 关于/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/101.  前端巩固基础/32.  JavaScript 深入数据类型/21.  JavaScript 数字类型.md" beforePathEscaped="$PROJECT_DIR$/docs/101. 🚶🏻 前端巩固基础/32. 📕 JavaScript 深入数据类型/21. 🔢 JavaScript 数字类型.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/101.  前端巩固基础/32.  JavaScript 深入数据类型/21.  JavaScript 数字类型.md" afterPathEscaped="$PROJECT_DIR$/docs/101. 🚶🏻 前端巩固基础/32. 📕 JavaScript 深入数据类型/21. 🔢 JavaScript 数字类型.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/200.  前端面试题收集/08.  JavaScript 相关/10.  ES6 相关/02.  ES6 新增特性.md" beforePathEscaped="$PROJECT_DIR$/docs/200. 🪞 前端面试题收集/08. 🗾 JavaScript 相关/10. 🍎 ES6 相关/02. 🍏 ES6 新增特性.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/200.  前端面试题收集/08.  JavaScript 相关/10.  ES6 相关/02.  ES6 新增特性.md" afterPathEscaped="$PROJECT_DIR$/docs/200. 🪞 前端面试题收集/08. 🗾 JavaScript 相关/10. 🍎 ES6 相关/02. 🍏 ES6 新增特性.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/200.  前端面试题收集/08.  JavaScript 相关/10.  ES6 相关/03.  Promise 相关.md" beforePathEscaped="$PROJECT_DIR$/docs/200. 🪞 前端面试题收集/08. 🗾 JavaScript 相关/10. 🍎 ES6 相关/03. 🍎 Promise 相关.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/400.  其他文章收集/10.  关于本笔记的搭建.md" beforePathEscaped="$PROJECT_DIR$/docs/400. 🚪 其他文章收集/10. 📡 关于本笔记的搭建.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/400.  其他文章收集/10.  关于本笔记的搭建.md" afterPathEscaped="$PROJECT_DIR$/docs/400. 🚪 其他文章收集/10. 📡 关于本笔记的搭建.md" afterDir="false" />
+    <list default="true" id="c2cd058e-cf1f-48b5-934b-e71eff147289" name="Changes" comment="feat: add waline comment plugin">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/config.bundled_1655569167180.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/config.bundled_1655569167239.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/config.bundled_1655569663719.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/config.bundled_1655569669491.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/config/nav.ts" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config/nav.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/200.  前端面试题收集/08.  JavaScript 相关/10.  JavaScript 事件模型.md" beforePathEscaped="$PROJECT_DIR$/docs/200. 🪞 前端面试题收集/08. 🗾 JavaScript 相关/10. 🍎 JavaScript 事件模型.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/200.  前端面试题收集/08.  JavaScript 相关/11.  JavaScript 事件模型.md" afterPathEscaped="$PROJECT_DIR$/docs/200. 🪞 前端面试题收集/08. 🗾 JavaScript 相关/11. 🍎 JavaScript 事件模型.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/200.  前端面试题收集/08.  JavaScript 相关/11.  JavaScript 事件循环相关.md" beforePathEscaped="$PROJECT_DIR$/docs/200. 🪞 前端面试题收集/08. 🗾 JavaScript 相关/11. 🍎 JavaScript 事件循环相关.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/200.  前端面试题收集/08.  JavaScript 相关/12.  JavaScript 事件循环相关.md" afterPathEscaped="$PROJECT_DIR$/docs/200. 🪞 前端面试题收集/08. 🗾 JavaScript 相关/12. 🍎 JavaScript 事件循环相关.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/200.  前端面试题收集/08.  JavaScript 相关/12.  JavaScript 线程机制相关.md" beforePathEscaped="$PROJECT_DIR$/docs/200. 🪞 前端面试题收集/08. 🗾 JavaScript 相关/12. 🍏 JavaScript 线程机制相关.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/200.  前端面试题收集/08.  JavaScript 相关/13.  JavaScript 线程机制相关.md" afterPathEscaped="$PROJECT_DIR$/docs/200. 🪞 前端面试题收集/08. 🗾 JavaScript 相关/13. 🍏 JavaScript 线程机制相关.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -23,6 +32,12 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/docs/.vuepress/config.ts" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/docs/.vuepress/config/plugins.ts" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/package.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/vdoing/components/Page.vue" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -141,7 +156,9 @@
       <workItem from="1656258494040" duration="561000" />
       <workItem from="1656598730858" duration="2014000" />
       <workItem from="1656605780332" duration="707000" />
-      <workItem from="1656779542622" duration="343000" />
+      <workItem from="1656779542622" duration="11406000" />
+      <workItem from="1656851819975" duration="3153000" />
+      <workItem from="1656862439404" duration="23000" />
     </task>
     <task id="LOCAL-00001" summary="update: JavaScript related content">
       <created>1651825811053</created>
@@ -346,7 +363,28 @@
       <option name="project" value="LOCAL" />
       <updated>1656779559860</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="update: update contents">
+      <created>1656837197163</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1656837197163</updated>
+    </task>
+    <task id="LOCAL-00031" summary="update: update contents">
+      <created>1656856971907</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1656856971907</updated>
+    </task>
+    <task id="LOCAL-00032" summary="feat: add waline comment plugin">
+      <created>1656857001489</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1656857001489</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -375,7 +413,8 @@
     <MESSAGE value="update: update README.md" />
     <MESSAGE value="update: update config" />
     <MESSAGE value="update: update contents" />
-    <option name="LAST_COMMIT_MESSAGE" value="update: update contents" />
+    <MESSAGE value="feat: add waline comment plugin" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add waline comment plugin" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
