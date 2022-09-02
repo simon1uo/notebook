@@ -18,7 +18,7 @@ export default <Array<NavItem>>[
           { text: '🚶 前端入门基础', link: '/front-end/beginning/' },
           { text: '🚶🏻 前端巩固基础', link: '/front-end/stable/' },
           { text: '🏃 前端核心框架', link: '/front-end/core-frame/' },
-          { text: '🪞 前端面试题收集', link: 'front-end/interview/'}
+          { text: '🪞 前端面试题收集', link: '/front-end/interview/'}
         ]
       }
     ]
